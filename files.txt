@@ -1,0 +1,4 @@
+C:/Users/Ahambarish/Desktop/InternShip/Task 1/Capture.JPG
+C:/Users/Ahambarish/Desktop/InternShip/Task 1/code/input.csv
+C:/Users/Ahambarish/Desktop/InternShip/Task 1/code/output_folder
+MLSJN.TTF
